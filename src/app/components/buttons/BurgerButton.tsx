@@ -1,10 +1,9 @@
 "use client"
 
 interface BurgerButtonProps {
-    isOpen: boolean
     onClick: () => void
 }
-export default function BurgerButton({ isOpen, onClick }: Readonly<BurgerButtonProps>) {
+export default function BurgerButton({ onClick }: Readonly<BurgerButtonProps>) {
     return (
         <button
             onClick={onClick}

@@ -17,7 +17,7 @@ export default function NavBarComponent() {
 
             <a href="mailto:airell.aristo@gmail.com" className="hidden sm:block px-4 py-2 text-lg font-bold border-2 border-black bg-white hover:bg-black hover:text-white transition-colors">Contact</a>
 
-            <BurgerButton isOpen={menuOpen} onClick={() => setMenuOpen(!menuOpen)} />
+            <BurgerButton onClick={() => setMenuOpen(!menuOpen)} />
         </nav>
 
         <AnimatePresence>

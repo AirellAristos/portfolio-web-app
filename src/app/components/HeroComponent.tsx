@@ -16,7 +16,7 @@ export default function HeroComponent() {
         ></div>
 
 
-        <h1 className="relative text-5xl font-bold mb-4 z-10">Hi, I'm Airell!</h1>
+        <h1 className="relative text-5xl font-bold mb-4 z-10">Hi, I&#39;m Airell!</h1>
         <p className="relative text-xl mb-8 z-10">Software Developer</p>
 
         <div className="relative mb-8 z-10">

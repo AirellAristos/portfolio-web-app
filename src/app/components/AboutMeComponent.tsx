@@ -7,10 +7,7 @@ export default function AboutMeComponent() {
             <div className="flex-1">
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
                 <p className="text-xl leading-relaxed font-medium">
-                    I'm a passionate Software Developer who enjoys building clean, user-focused applications. With a background in Informatics,
-                    I combine technical precision and creative problem-solving to craft meaningful digital experiences.
-                    I love working across the stack — from intuitive front-end design to efficient and secure back-end systems.
-                    For me, development is about solving real problems and turning ideas into impact.
+                    I&apos;m a passionate Software Developer who enjoys building clean, user-focused applications. With a background in Informatics, I combine technical precision and creative problem-solving to craft meaningful digital experiences. I love working across the stack — from intuitive front-end design to efficient and secure back-end systems. For me, development is about solving real problems and turning ideas into impact.
                 </p>
             </div>
 
